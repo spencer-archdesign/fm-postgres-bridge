@@ -11,9 +11,9 @@ This project implements a **one-way synchronization bridge** between a productio
 FileMaker remains the **system of record** for day-to-day operations, while PostgreSQL serves as a **reporting, querying, and learning environment** where relational modeling, SQL analytics, and data engineering patterns can be explored without disrupting production workflows.
 
 The primary goals are:
-- Learn PostgreSQL and relational data modeling in a real system
+- Enable Filemaker to PostgreSQL relational data modeling in a production system
 - Enable advanced reporting and analytics that are difficult in FileMaker
-- Create a portfolio-ready example of pragmatic system integration
+- Begin long-term implementation of database migration away from Filemaker to PostgreSQL via pragmatic system integration
 
 ---
 
@@ -107,7 +107,7 @@ fm-postgres-bridge/
 ## What This Is (and Is Not)
 
 **This is:**
-- A learning and reporting bridge
+- A reporting bridge and proof of concept
 - A demonstration of incremental modernization
 - A portfolio example of real-world system integration
 
