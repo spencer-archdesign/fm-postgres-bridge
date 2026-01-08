@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+
+# Editors
+.vscode/
+
+# Python
+__pycache__/
+.env
+.venv/
+
+# Node / JS (future)
+node_modules/
+
+# Docker
+*.log
+
+# Secrets
+*.env
