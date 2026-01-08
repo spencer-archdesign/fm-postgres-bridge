@@ -124,6 +124,7 @@ fm-postgres-bridge/
 - Git repository initialized and pushed
 - Project structure established
 - Ready to begin schema design and data replication
+- Ready to define raw_* schemas based on FileMaker structure
 
 ---
 
